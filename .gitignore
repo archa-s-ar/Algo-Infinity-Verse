@@ -28,3 +28,4 @@ yarn-error.log*
 
 # Local auth data
 data/
+node_modules/
