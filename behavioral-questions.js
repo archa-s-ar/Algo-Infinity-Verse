@@ -759,6 +759,62 @@ const behavioralQuestions = [
     <strong>Demo Answer:</strong><br>
     During a project presentation, a faculty member pointed out that while my technical understanding was strong, my explanations were often too detailed and difficult for a non-technical audience to follow. Initially, I felt disappointed because I had invested significant effort into the presentation. However, I realized the feedback was valuable. I began focusing on storytelling, simplifying technical concepts, and organizing presentations around key takeaways rather than technical depth alone. I also practiced with classmates and asked for feedback before presenting. Over time, my presentations became more engaging and easier to understand. In later evaluations, I received positive feedback not only for technical accuracy but also for clarity and communication.
   `
+},
+{
+  id: 28,
+  category: "Self Awareness",
+  difficulty: "Easy",
+  question: "What are your strengths and weaknesses?",
+  description: "Evaluate self-awareness, honesty, and growth mindset.",
+  answer: `
+    <strong>What Interviewers Look For:</strong><br>
+    Self-awareness, confidence, and willingness to improve.<br><br>
+
+    <strong>Demo Answer:</strong><br>
+
+    <strong>Strength:</strong><br>
+    One of my strengths is my ability to learn new concepts quickly. Whenever I encounter a new technology or tool, I enjoy exploring it independently and applying it through projects.<br><br>
+
+    <strong>Weakness:</strong><br>
+    Earlier, I sometimes spent too much time trying to perfect small details. Over time, I learned to balance quality with deadlines by prioritizing tasks and focusing on overall impact.<br><br>
+
+    <strong>Key Tip:</strong><br>
+    Choose a real weakness and explain how you are actively improving it.
+  `
+},
+{
+  id: 29,
+  category: "Motivation",
+  difficulty: "Easy",
+  question: "Why do you want this role/company?",
+  description: "Assess motivation, research, and cultural fit.",
+  answer: `
+    <strong>What Interviewers Look For:</strong><br>
+    Genuine interest in the role, company, and growth opportunities.<br><br>
+
+    <strong>Demo Answer:</strong><br>
+    I am excited about this role because it aligns with my interests in software development and problem-solving. I am particularly attracted to the company's focus on innovation, learning culture, and impact-driven projects. I believe this role would allow me to apply my skills, learn from experienced professionals, and contribute meaningfully while continuing to grow both technically and professionally.<br><br>
+
+    <strong>Key Tip:</strong><br>
+    Mention something specific about the company instead of giving a generic answer.
+  `
+},
+{
+  id: 30,
+  category: "Career Goals",
+  difficulty: "Medium",
+  question: "Where do you see yourself in 5 years?",
+  description: "Evaluate ambition, planning, and long-term commitment.",
+  answer: `
+    <strong>What Interviewers Look For:</strong><br>
+    Career direction, ambition, and realistic goals.<br><br>
+
+    <strong>Demo Answer:</strong><br>
+    In five years, I see myself as a skilled professional who has built strong technical expertise and contributed to impactful projects. I hope to take on greater responsibilities, mentor others, and continue learning emerging technologies. My goal is to grow into a role where I can combine technical knowledge, problem-solving, and leadership to create meaningful value for both users and the organization.<br><br>
+
+    <strong>Key Tip:</strong><br>
+    Focus on growth and learning rather than specific job titles.
+  `
 }
 ];
 // ===== INITIALIZATION & STATE MANAGEMENT =====
